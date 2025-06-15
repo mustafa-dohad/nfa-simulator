@@ -93,7 +93,7 @@ python3 main.py
 
 To better understand how the NFA Simulator works, check out the video tutorial below:
 
-**▶️ [Watch the NFA Simulator Demo on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**  
+**▶️ [Watch the NFA Simulator Demo on YouTube](https://youtu.be/5VZsjyMqn4s?si=5l0K09kO1MducQYL)**  
 
 The video covers:
 
